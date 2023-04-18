@@ -6,9 +6,7 @@ This is a Reddit clone built using Java Spring. It allows users to create accoun
 
 - Java Spring
 - Spring Boot
-- Spring Security
 - Spring Data JPA
-- Thymeleaf
 - PostgreSQL
 
 ## Features
