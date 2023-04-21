@@ -44,13 +44,15 @@ spring.datasource.password=admin
 
 2. Log in to your account by clicking on the "Log In" button and entering your credentials.
 
-3. Submit a post by clicking on the "Submit Post" button and filling out the post form.
+3. Create Subreddit.
 
-4. Upvote or downvote a post by clicking on the arrows next to the post.
+4. Submit a post by clicking on the "Submit Post" button and filling out the post form.
 
-5. Comment on a post by clicking on the "Comment" button and filling out the comment form.
+5. Upvote or downvote a post by clicking on the arrows next to the post.
 
-6. Sort posts by popularity, date, or relevance by clicking on the corresponding buttons.
+6. Comment on a post by clicking on the "Comment" button and filling out the comment form.
+
+7. Sort posts by popularity, date, or relevance by clicking on the corresponding buttons.
 
 ## Contributing
 
